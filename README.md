@@ -1,5 +1,7 @@
 
-# Nasa Share | Puedes visualizarlo en este link: [*nasa-share.herokuapp.com*](https://nasa-share.herokuapp.com/)
+# Nasa Share 
+
+Puedes visualizarlo en este link: [*nasa-share.herokuapp.com*](https://nasa-share.herokuapp.com/)
 
 Nasa Share es un lugar en donde los amantes del infinito universo pueden disfrutar de las maravillosas imagenes que diariamente desde el año 1995 la Nasa comparte con el mundo entero. 
 
@@ -8,7 +10,7 @@ Para hacer esto posible se utilizó la Api que proporciona la Nasa en su [*pági
 Cuenta con versión móvil y escritorio.
 
 #### Ejemplo de Versión web
-![Ejemplo / Versión-web ](src/img/nasa01.jpg)
+![nasa01](https://user-images.githubusercontent.com/32282202/37885918-41f49766-308e-11e8-93bf-788191ed8812.jpg)
 
 #### Ejemplo de Versión móvil
 ![Ejemplo / Versión-movil ](src/img/nasa02.jpg)
